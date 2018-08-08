@@ -4,7 +4,7 @@ body {
     line-height: 34px;
     color: #22181C;
     word-wrap: break-word;
-    background: url("../images/concrete_seamless.png");
+    background: url("https://cdn.pixabay.com/photo/2015/12/10/16/46/background-1086706_960_720.jpg");
   }
   
   * {
@@ -209,6 +209,7 @@ body {
       height: auto;
   }
 
+
   .img-fluid {
       max-width: 50%;
       height: auto;
@@ -254,3 +255,10 @@ body {
     border: 0 none;
   }
   
+  /*portfolio page*/
+
+  .train, .wireframe, .dance{
+    align-items: center;
+    
+
+  }
